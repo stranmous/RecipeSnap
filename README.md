@@ -37,47 +37,22 @@ RecipeSnap helps you easily digitize and save your favorite recipes locally. Ins
 - **Local Database**: Expo SQLite
 - **AI Integration**: Google Gemini Vision REST API
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v18 or higher)
 - npm or yarn
 - Android Studio / Android SDK (for building the APK)
 
-### Installation
+## Installation
 
-1. Clone the repository and install dependencies:
-```bash
-npm install
-```
+You can install the app using the APK provided in the repository.
 
-2. Start the Expo development server:
-```bash
-npm run start
-```
+1. Download the latest `RecipeSnap.apk` from the [Releases](https://github.com/stranmous/RecipeSnap/releases/tag/v1.0.0) page.
+2. Open the APK on your Android device.
+3. If prompted, allow your file manager to "Install unknown apps."
+4. Complete the installation and open the app.
 
-### Configuration
-
-You can configure your Google Gemini API Key directly inside the app:
-1. Open the app.
-2. Tap the Settings (⚙️) icon on the Home Screen.
-3. Enter your API key. 
-
-Alternatively, to set a default API key for all new builds, edit the `DEFAULT_API_KEY` constant in `src/store/useSettingsStore.ts`.
-
-### Building the Android APK
-
-To generate a standalone APK for Android devices:
-
-```bash
-npx expo prebuild --platform android --clean
-cd android
-./gradlew assembleRelease
-```
-
-The compiled APK will be located at:
-`android/app/build/outputs/apk/release/app-release.apk`
+---
 
 ## Project Structure
 
