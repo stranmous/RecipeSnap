@@ -2,8 +2,6 @@
 
 RecipeSnap is an AI-powered Android mobile application that extracts structured recipes from photos of printed cookbooks, handwritten notes, or screens. Built with React Native, Expo, and Google Gemini AI.
 
-![RecipeSnap thumbnail](assets/thumbnail.png)
-
 ## Features
 
 - 📸 **Camera & Gallery Support**: Snap a picture or upload an existing image.
@@ -11,6 +9,8 @@ RecipeSnap is an AI-powered Android mobile application that extracts structured 
 - 💾 **Offline History**: All scanned recipes are permanently saved locally using SQLite.
 - 🎨 **Premium UI**: Custom dark culinary theme utilizing NativeWind (Tailwind v4) and glassmorphism.
 - 📤 **Share & Copy**: Easily share your scanned recipes as text via the native Android share sheet.
+
+![RecipeSnap thumbnail](assets/thumbnail.png)
 
 ## Tech Stack
 
