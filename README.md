@@ -2,7 +2,7 @@
 
 RecipeSnap is an AI-powered Android mobile application that extracts structured recipes from photos of printed cookbooks, handwritten notes, or screens. Built with React Native, Expo, and Google Gemini AI.
 
-![RecipeSnap thumbnail](recipesnap/assets/thumbnail.png)
+![RecipeSnap thumbnail](assets/thumbnail.png)
 
 ## Features
 
