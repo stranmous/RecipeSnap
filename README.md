@@ -1,8 +1,22 @@
-![RecipeSnap logo](assets/images/icon.png)
+<div align="center">
+ 
+  <img src="https://github.com/stranmous/RecipeSnap/blob/main/assets/images/icon.png" alt="RecipeSnap Banner" width="200">
 
-# RecipeSnap
+  # RecipeSnap
 
-RecipeSnap is an AI-powered Android mobile application that extracts structured recipes from photos of printed cookbooks, handwritten notes, or screens. Built with React Native, Expo, and Google Gemini AI.
+  **An AI-powered Android mobile application that extracts structured recipes from photos.**
+
+  [![Android Platform](https://img.shields.io/badge/Platform-Android_12+-3DDC84?logo=android&logoColor=white)](#)
+  [![React Native](https://img.shields.io/badge/React_Native-0.86-61DAFB?logo=react&logoColor=white)](#)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](#)
+
+</div>
+
+---
+
+RecipeSnap helps you easily digitize and save your favorite recipes locally. Instead of manually typing out ingredients and steps, the app uses Google Gemini Vision AI to instantly read and categorize recipes from photos of cookbooks, handwritten notes, or screens. Your recipes are permanently saved locally on your device in an SQLite database.
+
+---
 
 ## Features
 
