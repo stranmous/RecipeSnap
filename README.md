@@ -12,6 +12,10 @@ RecipeSnap is an AI-powered Android mobile application that extracts structured 
 
 ![RecipeSnap thumbnail](assets/thumbnail.png)
 
+### Main Screen
+
+![RecipeSnap main screen](assets/screen%201.jpeg)
+
 ## Tech Stack
 
 - **Framework**: React Native (0.86) + Expo SDK 57
